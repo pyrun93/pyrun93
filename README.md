@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyrun93
+- 👋 Hi, I’m Hema.
 - 👀 I’m interested in creating cool Python and Embedded projects
 - 🌱 I’m currently improving my programming skillset
 - 💞️ I’m looking to collaborate on Embedded systems related projects
